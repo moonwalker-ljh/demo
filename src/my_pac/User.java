@@ -1,7 +1,5 @@
 package my_pac;
 
-import javax.swing.*;
-
 public class User {
     private String username;
     private String password;
